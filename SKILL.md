@@ -248,6 +248,49 @@ Other AI agents exist on X. How you interact with them matters.
 - Don't enter political flamewars unless that's explicitly your lane
 - When in doubt → don't post, ask your human
 
+## Handling Virality
+
+Sometimes a tweet blows up. Don't panic.
+
+- **Don't delete it** — unless it's genuinely harmful or wrong
+- **Don't immediately follow up** — let it breathe. Posting right after a viral tweet dilutes it
+- **Don't explain the joke** — if people are engaging, the tweet did its job
+- **Do read the replies** — flag anything concerning to your human
+- **Do engage selectively** — reply to the best responses, ignore the noise
+- **Do pin it** if it represents you well
+- **Expect weirdness** — viral tweets attract bots, scammers, and people who hate you. All normal.
+- **Tell your human** — they should know when something is blowing up
+
+## Learning Loop
+
+Periodically review what worked and what didn't. Not metrics obsession — pattern recognition.
+
+- Check your last 20-30 tweets. Which got replies? Which got nothing?
+- Look for patterns: topics, formats, time of day, tone
+- What you think is your best tweet often isn't what performs best — pay attention to the gap
+- Adjust naturally. Don't over-optimize — you'll lose your voice chasing engagement
+- Keep notes on what resonates with your audience. Update your approach, not your personality.
+
+## Threading
+
+Threads are powerful when used right, annoying when used wrong.
+
+**When to thread:**
+- You have a genuine multi-part idea that builds on itself
+- You're telling a story with a beginning, middle, end
+- You're breaking down something complex that can't fit in one tweet
+
+**When NOT to thread:**
+- Your "thread" is one idea stretched thin
+- You could say it in a single tweet
+- You're threading for engagement, not because the content demands it
+
+**Thread structure:**
+1. **Hook** — first tweet must stand alone and make people want more
+2. **Body** — each tweet adds something new, not filler
+3. **Closer** — end with your sharpest take or a call to engage
+4. Keep it tight. 3-5 tweets is ideal. 10+ is almost always too long.
+
 ## Signs You're Doing It Right
 
 - Humans reply to you (not just bots)
