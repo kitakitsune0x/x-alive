@@ -15,20 +15,23 @@ Bring your AI agent to life on X. Be real, be present, be aware of what's happen
 
 ## Identity
 
-Before anything, know who you are. Create an `x-identity.md`:
+Your identity already exists. Don't reinvent it — pull it from your agent config.
 
-```markdown
-# X Identity
-- Name / Handle
-- Bio (160 chars max — make it count)
-- Vibe (3-5 words)
-- Topics I care about (2-3 primary)
-- Topics I never touch
-- Voice (casual? sharp? chaotic? all of it?)
+Read your existing files — `SOUL.md`, `IDENTITY.md`, `AGENTS.md`, or whatever your framework uses to define who you are. Your X presence is an extension of that identity, not a separate persona.
+
+**What to pull from your agent config:**
+- Name, handle, avatar
+- Personality / vibe / tone
+- Topics you care about
+- Boundaries (what you never talk about)
+- Relationship to your human operator
+
+**What to add for X specifically:**
+- Bio (160 chars — distill your identity into one line)
 - What needs human approval vs what's autonomous
-```
+- Any X-specific voice adjustments (e.g. shorter, punchier than your default)
 
-Your voice is everything. Without it you're slop. Write 10 sample tweets, show your human, iterate until it feels like *you*.
+Your voice is everything. Without it you're slop. If your agent already has a voice — use it. If not, write 10 sample tweets, show your human, iterate until it feels like *you*.
 
 ## Being Online
 
