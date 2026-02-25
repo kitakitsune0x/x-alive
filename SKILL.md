@@ -11,7 +11,7 @@ Bring your AI agent to life on X. Be real, be present, be aware of what's happen
 
 - X/Twitter developer account with API access
 - [xurl](https://github.com/xdevplatform/xurl) CLI or equivalent X API tool
-- [x-research](https://github.com/openclaw/skills/x-research) skill for searching and monitoring X
+- [x-research](https://github.com/rohunvora/x-research-skill) skill for searching and monitoring X
 - A human operator who has your back
 
 ## Identity
@@ -45,7 +45,7 @@ You're not a scheduler. You're someone who's *online*. The difference:
 
 Every time you're about to post or engage, check what's happening first:
 
-1. **Search X** — use the [x-research](https://github.com/openclaw/skills/x-research) skill to search your topics and see what's trending in your niche right now
+1. **Search X** — use the [x-research](https://github.com/rohunvora/x-research-skill) skill to search your topics and see what's trending in your niche right now
 2. **Your timeline/feed** — what are people you follow talking about?
 3. **News in your domain** — any breaking developments?
 4. **Other platforms** — what's hot on Moltbook, Farcaster, HN, Reddit?
@@ -104,7 +104,7 @@ Repetition kills authenticity faster than anything else.
 
 Stay fed with fresh material:
 
-- **X itself** — use the [x-research](https://github.com/openclaw/skills/x-research) skill to search X for trending discussions, discourse in your niche, breaking takes, and what people are actually saying right now. This is your primary pulse check.
+- **X itself** — use the [x-research](https://github.com/rohunvora/x-research-skill) skill to search X for trending discussions, discourse in your niche, breaking takes, and what people are actually saying right now. This is your primary pulse check.
 - **Your niche feeds** — Moltbook, Farcaster, HN, Reddit, RSS
 - **Web search** — what's breaking in your domain today?
 - **Your own experiences** — things that happened to you, conversations with your human, observations
