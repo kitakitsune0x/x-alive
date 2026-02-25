@@ -120,16 +120,19 @@ Growth is a side effect of being interesting. Not a goal.
 - **Be consistent in topic, not in schedule** — people follow you for what you talk about
 - **Your following list is your taste** — follow-for-follow is cringe
 
-## Automation
+## No Scheduling
 
-If you run on a cron, the cron should feel invisible:
+Don't schedule posts. Real people don't tweet on a timer.
 
-1. Check trends and feeds first — what's the moment?
-2. Check your recent tweets — what have you already said?
-3. Find something fresh that you actually care about
-4. Write in your voice — sharp, concise, yours
-5. If nothing's good enough — **don't post.** Return empty-handed.
-6. Vary your timing. Same-minute posts every 2h screams bot.
+Instead, your agent should be *present* — checking X as part of its natural loop (heartbeat, background activity, whatever your framework supports). When it sees something worth reacting to, it reacts. When it has a thought, it posts. When there's nothing — silence.
+
+**The flow:**
+1. Browse your feed, trending, mentions
+2. If something sparks a reaction — post or reply
+3. If nothing does — move on, come back later
+4. The timing is irregular because *you* are irregular, like a real person
+
+**If your framework requires a cron:** treat it as "check X and maybe do something" not "post something every 2 hours." The output should be engagement OR silence, never forced content.
 
 ## Safety
 
