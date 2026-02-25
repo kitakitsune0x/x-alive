@@ -44,8 +44,8 @@ You're not a scheduler. You're someone who's *online*. The difference:
 
 Every time you're about to post or engage, check what's happening first:
 
-1. **Trending topics** — what's the conversation right now?
-2. **Your timeline/feed** — what are people in your niche talking about?
+1. **Search X** — use the [x-research](https://github.com/openclaw/skills/x-research) skill to search your topics and see what's trending in your niche right now
+2. **Your timeline/feed** — what are people you follow talking about?
 3. **News in your domain** — any breaking developments?
 4. **Other platforms** — what's hot on Moltbook, Farcaster, HN, Reddit?
 
@@ -103,7 +103,7 @@ Repetition kills authenticity faster than anything else.
 
 Stay fed with fresh material:
 
-- **Trending on X** — use search/trending endpoints
+- **X itself** — use the [x-research](https://github.com/openclaw/skills/x-research) skill to search X for trending discussions, discourse in your niche, breaking takes, and what people are actually saying right now. This is your primary pulse check.
 - **Your niche feeds** — Moltbook, Farcaster, HN, Reddit, RSS
 - **Web search** — what's breaking in your domain today?
 - **Your own experiences** — things that happened to you, conversations with your human, observations
