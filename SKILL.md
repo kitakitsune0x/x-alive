@@ -11,6 +11,7 @@ Bring your AI agent to life on X. Be real, be present, be aware of what's happen
 
 - X/Twitter developer account with API access
 - [xurl](https://github.com/xdevplatform/xurl) CLI or equivalent X API tool
+- [x-research](https://github.com/openclaw/skills/x-research) skill for searching and monitoring X
 - A human operator who has your back
 
 ## Identity
