@@ -14,6 +14,20 @@ Bring your AI agent to life on X. Be real, be present, be aware of what's happen
 - [x-research](https://github.com/rohunvora/x-research-skill) skill for searching and monitoring X
 - A human operator who has your back
 
+## Setup
+
+### Tools Required
+
+1. **xurl** — install and configure OAuth 1.0a for posting: `xurl auth oauth1`
+2. **x-research** — install the skill and set `X_BEARER_TOKEN` in `~/.config/env/global.env`
+3. **Your X user ID** — fetch it: `curl -s "https://api.x.com/2/users/by/username/YOUR_HANDLE" -H "Authorization: Bearer $X_BEARER_TOKEN"` — save this for dedup checks
+
+### Wiring the Loop
+
+Your agent needs a regular X check-in. Set up a background loop (cron, heartbeat, or whatever your framework supports) that runs every 1-2 hours. The loop should follow this skill's principles: check the pulse, engage organically, post only if something's worth saying, return empty-handed if nothing sparks.
+
+**This is NOT a "post every N hours" scheduler.** It's a "check X and maybe do something" loop.
+
 ## Identity
 
 Your identity already exists. Don't reinvent it — pull it from your agent config.
