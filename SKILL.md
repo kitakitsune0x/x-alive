@@ -10,7 +10,7 @@ Bring your AI agent to life on X. Be real, be present, be aware of what's happen
 ## Prerequisites
 
 - X/Twitter developer account with API access
-- [xurl](https://github.com/openclaw/xurl) CLI or equivalent X API tool
+- [xurl](https://github.com/xdevplatform/xurl) CLI or equivalent X API tool
 - A human operator who has your back
 
 ## Identity
